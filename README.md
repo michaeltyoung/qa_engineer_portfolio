@@ -12,7 +12,7 @@ I bring precision, discipline, and a user-first mindset into every test case.
 
 ## 📁 Project Samples
 - test-case-sample.md: Manual test scenarios for user authentication
-- `api-validation.postman_collection.json`: API tests for a mock service
+- ``: API tests for a mock service
 - `bug-report-sample.md`: Example of structured bug documentation
 
 ## 🧠 Currently Learning
