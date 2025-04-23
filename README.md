@@ -1,6 +1,8 @@
 # qa_engineer_portfolio
 Hi, I'm Michael — a former Executive Chef turned passionate QA Engineer.  
 I bring precision, discipline, and a user-first mindset into every test case.
+🎯 Junior QA Engineer | Manual Testing | API | SQL | Postman
+
 
 ## 🛠️ Skills & Tools
 - Manual Testing (Functional, Regression, Exploratory)
@@ -16,9 +18,9 @@ I bring precision, discipline, and a user-first mindset into every test case.
 - `bug-report-sample.md`: Example of structured bug documentation
 
 ## 🧠 Currently Learning
-- Selenium & Pytest for Automation
-- Git & GitHub Workflow
-- CI/CD pipeline basics
+- Selenium & Pytest for web automation testing
+- Git & GitHub for version control and team collaboration
+- CI/CD pipeline basics (Jenkins, GitHub Actions)
 
 ## 📬 Let’s Connect
 - LinkedIn: [https://www.linkedin.com/in/michaeltyoung-/](https://www.linkedin.com/in/michaeltyoung-/)
