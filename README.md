@@ -1,6 +1,7 @@
 # qa_engineer_portfolio
 Hi, I'm Michael — a former Executive Chef turned passionate QA Engineer.  
 I bring precision, discipline, and a user-first mindset into every test case.
+
 ##🎯 Junior QA Engineer | Manual Testing | API | SQL | Postman
 
 
