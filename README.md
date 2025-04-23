@@ -29,4 +29,4 @@ I bring precision, discipline, and a user-first mindset into every test case.
 
 ---
 
-Thanks for checking out my work. I’m always open to collaborating or feedback!
+Thanks for checking out my portfolio. Always open to feedback, collaboration, or connection
