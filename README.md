@@ -11,8 +11,8 @@ I bring precision, discipline, and a user-first mindset into every test case.
 - Learning Python & JavaScript for Automation
 
 ## 📁 Project Samples
-- test-case-sample.md: Manual test scenarios for user authentication
-- ``: API tests for a mock service
+- `test-case-sample.md`: Manual test scenarios for user authentication
+- `validation.postman_collection.json`: API tests for a mock service
 - `bug-report-sample.md`: Example of structured bug documentation
 
 ## 🧠 Currently Learning
